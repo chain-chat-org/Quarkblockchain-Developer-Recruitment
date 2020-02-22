@@ -1,37 +1,58 @@
-## Welcome to GitHub Pages
+山川异域，风月同天
 
-You can use the [editor on GitHub](https://github.com/chain-chat-org/Developer-Recruitment/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+感谢关注夸克生态开发者社区并有意愿加入我们的社区开发者团队。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+夸克生态开发者社区2019年正式对外，但在社区之前，夸克生态已经有了拥有千万用户的夸克链信、夸克资讯、夸克生态游戏、夸克招财猫更多服务开发者的团队和阵地，夸克生态社区也参与了“2019 中国国际智能产业博览会”和开发者为主题的产业盛会“2019云栖大会”。
 
-### Markdown
+夸克生态的两年，始终坚持和开发者同行。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+步入2020年，为了实现夸克生态向全世界普及区块链的理念，开发者社区承担着新的责任。所以，我们陆续开源了QKBILL钱包、CCT智能合约、夸克区块浏览器、夸克区块链SDK、夸克区块链链上冲提系统等产品，为开发者提供一站式服务，助力成长。
 
-```markdown
-Syntax highlighted code block
+时间如此宝贵，为了迎接更多开发者的加入，我们详细整理了开发者团队的介绍和加入方式，以及大家关注的核心问题。花5分钟阅读并填写表单，并加入夸克生态开发社群，会让大家更了解彼此，也可以在微信群直接沟通。**若微信群已满，收到表单后3个工作日我们会直接联系你。**
 
-# Header 1
-## Header 2
-### Header 3
+## 夸克生态开发者社区
 
-- Bulleted
-- List
+是夸克生态背后的社区，覆盖区块链、云计算、大数据、人工智能、IoT、云原生、数据库、微服务、安全、开发与运维。
 
-1. Numbered
-2. List
+是夸克生态对外发布原创技术内容的最大平台。
 
-**Bold** and _Italic_ and `Code` text
+## 运营志愿者团队
 
-[Link](url) and ![Image](src)
-```
+志愿者，对任何社区而言，都不可获缺。
+我们的志愿者团队是对夸克生态有着极高热情，乐于分享的专业人员，已经超过100人，有学生，开发者，设计师，企业老板。过去两年，我们都是从粉丝和社区用户中挑选，但今天，我们希望可以向更大范围内征集，诚邀更多志愿者的加入。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## 志愿者招募
 
-### Jekyll Themes
+目前我们的志愿者分为下述类别：
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chain-chat-org/Developer-Recruitment/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- 运营类
+轻方案，文案优化，创意类策划等，欢迎一起打磨更具灵性的运营方案。
 
-### Support or Contact
+- 社群管理类（已停止招募）
+负责管理夸克生态的社群。
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+- 更多创新
+如果感觉自己在相关技术领域足够资深，有足够有价值的内容来分享，欢迎加入，我们有全套的专家运营计划。
+如果有其他一技之长，如愿意在区域成为组织者，都可以申请加入。
+
+- 对志愿者的要求
+社区的志愿者，正如同开源技术贡献者一样：有能力、愿分享、花时间。
+我们希望大家都能在社区工作中有所收获，为保证大家能够真正理解社区工作以及保证项目整体协作，建议志愿者平均每天投入至少6小时时间，至少持续2个月。
+
+## 志愿者相关FAQ
+
+Q1：志愿者怎样工作？
+A1：微信沟通为主，不排除会使用更有效率的交流工具。志愿者会在社群中找到志同道合的伙伴。
+
+Q2：如何记录和证明我的志愿者工作成果？
+A2：我们为志愿者提供了一套工作审核机制，会有专人审核。
+
+Q3：志愿者是没有酬劳的对吗？
+A3：有的。会按照工作程度每周释放酬劳。
+
+Q4：志愿者有机会进入仓舟科技么？
+A4：有。
+
+Q5：志愿者有机会和心目中的链信CEO陈总聊天吗？
+A5：陈总一直在社区活跃，会和社区的各位交流。
