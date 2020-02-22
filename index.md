@@ -78,5 +78,5 @@ A5：陈总一直在社区活跃，会和社区的各位交流。
 
 点击此[链接](https://docs.qq.com/form/fill/DRGhJUFhpTVp2WXlX?_w_tencentdocx_form=1)填写表单
 
-或扫描二维码
+
 ![alt text](https://github.com/chain-chat-org/Quarkblockchain-Developer-Recruitment/blob/master/%E5%A4%B8%E5%85%8B%E7%94%9F%E6%80%81%E5%BC%80%E5%8F%91%E8%80%85%E7%A4%BE%E5%8C%BA%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
